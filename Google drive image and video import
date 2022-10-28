@@ -6,11 +6,11 @@ How to add a Google Drive video (in .mp4 format) to Webflow's Richtext or Custom
 
 -------------------
 
-How to add a Google Drive img/GIF to Webflow's Richtext or Custom Code Block to
+How to add a Google Drive img/GIF to Webflow's Richtext or Custom Code Block
 -------------------
 <img src="https://drive.google.com/uc?export=view&id=1CaELM0ALAP5frvERx8I0m8JfDjhWpOsg" width="100%">
 
--------------------
+------------------
 
 How to add a Google Drive .mov format to Webflow's Richtext or Custom Code Block
 -------------------
